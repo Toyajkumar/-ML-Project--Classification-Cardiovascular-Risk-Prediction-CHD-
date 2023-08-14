@@ -25,9 +25,6 @@ Welcome to the **Classification - Cardiovascular Risk Prediction (CHD)** project
 
 Contributions are welcome! If you find issues, have suggestions for improvements, or want to experiment with different classification techniques, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
